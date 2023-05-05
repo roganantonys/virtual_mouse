@@ -2,10 +2,10 @@
 
 2. To make this code work we need to import three packages (i)opencv (ii)mediapipe (iii)pyautogui 
 
-3.opencv package used to open the video camera which is a basic requirement in finger detection
+3. opencv package used to open the video camera which is a basic requirement in finger detection
 
-4.mediapipe package responsible for the finger detection
+4. mediapipe package responsible for the finger detection
 
-5.pyautogui package responsible for the moving , clicking functions of mouse
+5. pyautogui package responsible for the moving , clicking functions of mouse
 
-6.using the opencv we are going to access the video camera and using the mediapipe we are going to track the index finger and thumb finger once the index and thum finger comes close to each other using pyautogui we are implementing the clicking function.
+6. using the opencv we are going to access the video camera and using the mediapipe we are going to track the index finger and thumb finger once the index and thum finger comes close to each other using pyautogui we are implementing the clicking function.
